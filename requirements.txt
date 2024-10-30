@@ -21,4 +21,9 @@ langchainhub
 sentence_transformers
 PyPDF2
 langchain-objectbox
+
 langchain_community
+langchain
+langserve
+fastapi
+uvicorn
