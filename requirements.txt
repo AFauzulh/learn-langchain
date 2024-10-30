@@ -27,3 +27,6 @@ langchain
 langserve
 fastapi
 uvicorn
+
+chromadb
+faiss-cpu
