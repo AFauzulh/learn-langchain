@@ -17,8 +17,6 @@ else:
     print('No GPU available, using the CPU instead.')
     device = torch.device("cpu")
 
-os.environ["HF_HOME"] = "E:\Huggingface"
-
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_quant_type="nf4",
