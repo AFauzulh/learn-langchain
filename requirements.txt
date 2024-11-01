@@ -2,7 +2,7 @@ langchain_openai
 langchain_core
 python-dotenv
 streamlit
-langchain_community
+langchain-community
 langserve
 fastapi
 uvicorn
@@ -18,11 +18,12 @@ langchain-groq
 wikipedia
 arxiv
 langchainhub
-sentence_transformers
+sentence-transformers
 PyPDF2
 langchain-objectbox
 
-langchain_community
+langchain-huggingface
+langchain-community
 langchain
 langserve
 fastapi
