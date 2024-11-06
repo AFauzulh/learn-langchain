@@ -33,3 +33,5 @@ chromadb
 faiss-cpu
 
 langchain-ollama
+
+pymupdf
