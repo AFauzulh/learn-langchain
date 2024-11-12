@@ -1,0 +1,8 @@
+# .gitignore
+.env
+./objectbox/rag_papers
+./objectbox/objectbox
+
+*.gguf
+*.mdb
+*.pdf
